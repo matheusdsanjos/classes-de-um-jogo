@@ -1,2 +1,2 @@
 # classes-de-um-jogo
-Utilize todos seus conhecimentos lógicos até aqui para desenvolver uma Calculadora de Partidas Rankeadas, chegou a hora de usar todo seu conhecimento em estruturas condicionais, funções e estrutura de dados para criar um molde de objeto para representar personagens de jogos.
+Criação de uma classe em JavaScript que represente um herói de uma aventura, com propriedades como nome, idade e tipo (guerreiro, mago, monge, ninja). Além disso, a classe terá um método atacar() que exibirá a mensagem correta de acordo com o tipo do herói.
